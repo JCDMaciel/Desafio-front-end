@@ -1,0 +1,23 @@
+.ofertas-lista {
+    margin-bottom: 16px;
+    margin-left: 165px;
+    margin-top: 16px;
+}
+
+.ofertas-novaSerie,
+.ofertas-titulo {
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+.ofertas-novaSerie {
+    color: var(--cinza_fonte_clara);
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.ofertas-titulo {
+    color: var(--preto);
+    font-size: 32px;
+    font-weight: 700;
+}

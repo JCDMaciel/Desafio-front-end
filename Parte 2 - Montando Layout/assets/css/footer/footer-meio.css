@@ -1,0 +1,12 @@
+.footer-meio {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 32px;
+    margin-left: 165px;
+    margin-top: 32px;
+}
+
+.footer-meio_item {
+    margin-bottom: 16px;
+    margin-top: 16px;
+}

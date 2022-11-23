@@ -1,0 +1,31 @@
+.footer-topo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 42px 165px;
+}
+.footer-topo_siga {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-topo_siga_item {
+    margin: 0 16px;
+}
+
+.footer-topo_siga_titulo {
+    margin-right: 35.7px;
+}
+
+.bi-instagram,
+.bi-linkedin,
+.bi-youtube{
+    background-color: var(--branco);
+    color: var(--preto);
+    padding: 2px 5px;
+    width: 20px;
+    height: 20px;
+    border-radius: 90%;
+    border-style: none;
+}

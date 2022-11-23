@@ -1,0 +1,28 @@
+.header-botao {
+    display: flex;
+    justify-content: center;
+    width: 50vw;
+}
+
+.header-botao_ligueAgora, 
+.header-botao_whatsapp {
+    border-radius: 50px;
+    font-family: var(--fonte-principal);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    margin: auto 30px;
+    padding: 8px 30px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.header-botao_ligueAgora {
+    background-color: var(--azul);
+    color: var(--branco);
+}
+
+.header-botao_whatsapp {
+    background-color: var(--verde);
+    color: var(--branco);
+}

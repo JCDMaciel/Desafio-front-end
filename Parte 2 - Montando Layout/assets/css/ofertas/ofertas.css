@@ -1,0 +1,6 @@
+.ofertas {
+    background-color: var(--branco_mais_claro);
+    display: flex;
+    height: 108px;
+    justify-content: space-between;
+}

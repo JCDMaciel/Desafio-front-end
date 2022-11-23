@@ -1,0 +1,9 @@
+.footer {
+    background-color: var(--preto);
+    color: var(--branco);
+    display: flex;
+    flex-direction: column;
+    height: 386px;
+    left: 1440px;
+    top: 2358px;
+}

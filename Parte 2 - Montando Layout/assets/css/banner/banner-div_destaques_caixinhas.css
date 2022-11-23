@@ -1,0 +1,39 @@
+.banner-div_destaques_caixinhas {
+    display: flex;
+    margin-bottom: 27px;
+    margin-top: 24px;
+}
+
+.banner-div_destaques_caixinha_item {
+    display: flex;
+    flex-direction: row;
+}
+
+.banner-div_destaques_caixinha_item_text {
+    color: var(--preto);
+    margin: 20px;
+}
+
+.banner-div_destaques_caixinha_item_text_azul {
+    color: var(--azul);
+}
+
+.banner-div_destaques_text {
+    color: var(--preto);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 22px;
+    margin-top: 30px;
+}
+
+.banner-div_destaques_botao {
+    background-color: var(--azul);
+    border-radius: 50px;
+    color: var(--branco);
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 19px;
+    padding: 11px 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+}

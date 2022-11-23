@@ -1,0 +1,16 @@
+.banner-div_txt {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 44px;
+    color: var(--cinza_fonte_mais_escura);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.text {
+    margin-left: 10px;
+    margin-right: 10px;
+}

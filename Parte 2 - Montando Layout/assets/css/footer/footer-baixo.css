@@ -1,0 +1,17 @@
+.footer-baixo {
+    display: flex;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Ubuntu';
+    font-size: 12px;
+    font-weight: 400;
+    justify-content: space-between;
+    line-height: 14px;
+    margin: 42px 165px;
+}
+
+.footer-baixo_copy {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+}

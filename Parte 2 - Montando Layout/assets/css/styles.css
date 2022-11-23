@@ -1,0 +1,52 @@
+@import url("../css/header/header-botao.css");
+@import url("../css/header/header-logo.css");
+@import url("../css/header/header.css");
+
+@import url("../css/ofertas/ofertas-lista.css");
+@import url("../css/ofertas/ofertas-voltar.css");
+@import url("../css/ofertas/ofertas.css");
+
+@import url("../css/banner/banner-div.css");
+@import url("../css/banner/banner-div_destaques.css");
+@import url("../css/banner/banner-div_destaques_caixinhas.css");
+@import url("../css/banner/banner-div_img.css");
+@import url("../css/banner/banner-div_txt.css");
+@import url("../css/banner/banner-titulo.css");
+@import url("../css/banner/banner.css");
+
+@import url("../css/barras.css");
+
+@import url("../css/textos/textos-texto.css");
+@import url("../css/textos/textos-titulo.css");
+@import url("../css/textos/textos.css");
+
+@import url("../css/video/video-titulo.css");
+@import url("../css/video/video-video.css");
+@import url("../css/video/video.css");
+
+@import url("../css/textoLegal/textoLegal-texto.css");
+@import url("../css/textoLegal/textoLegal-titulo.css");
+@import url("../css/textoLegal/textoLegal.css");
+
+@import url("../css/footer/footer.css");
+@import url("../css/footer/footer-baixo.css");
+@import url("../css/footer/footer-meio.css");
+@import url("../css/footer/footer-topo.css");
+
+:root {
+    --azul: #3754E2;
+    --branco: #FFFFFF;
+    --branco_mais_claro: #f7f7f7;
+    --cinza_fonte_clara: #666666;
+    --cinza_fonte_mais_escura: #333333;
+    --fonte-principal: 'Open Sans';
+    --preto: #000000;
+    --verde: #4EC859;
+}
+
+body {
+    background-color: var(--branco);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-style: normal;
+}

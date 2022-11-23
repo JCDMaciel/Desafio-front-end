@@ -1,0 +1,10 @@
+.textos-texto {
+    width: 540px;
+    height: 244px;
+    left: 735px;
+    top: 750px;
+    color: var(--preto);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}

@@ -1,0 +1,10 @@
+.banner-titulo {
+    color: var(--cinza_fonte_clara);
+    font-family: 'Open Sans';
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33px;
+    margin-bottom: 10px;
+    margin-top: 16px;
+}
